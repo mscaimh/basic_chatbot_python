@@ -6,7 +6,7 @@ The project implements a basic chatbot in Python.
 * The chat_templates.properties contains chat templates used by the chatbot to derive response for the chat prompts.
 
 ## Steps for deploying the chatbot program:
-* Copy the contents of this archive to a local location, say C:/basic_chatbot_python. The resultant directory structure must be as below.
+* Clone this repo to a local location, say C:/basic_chatbot_python. The resultant directory structure must be as below.
   ```
   C:
   |-- basic_chatbot_python
